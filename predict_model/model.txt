@@ -1,0 +1,11 @@
+平均方差
+Likes - Mean Squared Error: 14184152.1649458
+Comments - Mean Squared Error: 50005.15565657904
+Collects - Mean Squared Error: 436468.154548054
+Shares - Mean Squared Error: 104967.77307561308
+
+平均标准差
+Likes: 3766.19
+Comments: 223.61
+Collects: 660.66
+Shares: 323.99

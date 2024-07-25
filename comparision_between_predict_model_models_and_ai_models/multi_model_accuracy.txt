@@ -1,0 +1,17 @@
+INFO: Epoch 0, global step 12: 'val_rmse' reached 0.73881 (best 0.73881), saving model to '/content/AutogluonModels/ag-20240709_145425/epoch=0-step=12.ckpt' as top 3
+
+
+
+INFO: Epoch 0, global step 24: 'val_rmse' reached 0.55507 (best 0.55507), saving model to '/content/AutogluonModels/ag-20240709_145425/epoch=0-step=24.ckpt' as top 3
+
+
+
+INFO: Epoch 1, global step 37: 'val_rmse' reached 0.53185 (best 0.53185), saving model to '/content/AutogluonModels/ag-20240709_145425/epoch=1-step=37.ckpt' as top 3
+
+INFO: Epoch 1, global step 49: 'val_rmse' reached 0.58575 (best 0.53185), saving model to '/content/AutogluonModels/ag-20240709_145425/epoch=1-step=49.ckpt' as top 3
+
+INFO: Epoch 2, global step 62: 'val_rmse' reached 0.55566 (best 0.53185), saving model to '/content/AutogluonModels/ag-20240709_145425/epoch=2-step=62.ckpt' as top 3
+
+INFO: Epoch 2, global step 74: 'val_rmse' reached 0.54330 (best 0.53185), saving model to '/content/AutogluonModels/ag-20240709_145425/epoch=2-step=74.ckpt' as top 3
+
+INFO: Epoch 3, global step 87: 'val_rmse' reached 0.55260 (best 0.53185), saving model to '/content/AutogluonModels/ag-20240709_145425/epoch=3-step=87.ckpt' as top 3
